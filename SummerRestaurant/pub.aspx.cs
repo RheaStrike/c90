@@ -8,7 +8,7 @@ using StackExchange.Redis;
 
 namespace SummerRestaurant
 {
-    public partial class Subscribe : System.Web.UI.Page
+    public partial class Pub : System.Web.UI.Page
     {
         private ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("127.0.0.1");
         private IDatabase db;

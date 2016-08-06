@@ -18,6 +18,6 @@ D:\RheaProject\C90\SummerRestaurant\bin\StackExchange.Redis.dll
 D:\RheaProject\C90\SummerRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\RheaProject\C90\SummerRestaurant\bin\StackExchange.Redis.pdb
 D:\RheaProject\C90\SummerRestaurant\bin\StackExchange.Redis.xml
-D:\RheaProject\C90\SummerRestaurant\obj\Debug\SummerRestaurant.csprojResolveAssemblyReference.cache
 D:\RheaProject\C90\SummerRestaurant\obj\Debug\SummerRestaurant.dll
 D:\RheaProject\C90\SummerRestaurant\obj\Debug\SummerRestaurant.pdb
+D:\RheaProject\C90\SummerRestaurant\obj\Debug\SummerRestaurant.csprojResolveAssemblyReference.cache

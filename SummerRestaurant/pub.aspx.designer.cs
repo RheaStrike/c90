@@ -10,7 +10,7 @@
 namespace SummerRestaurant {
     
     
-    public partial class Subscribe {
+    public partial class Pub {
         
         /// <summary>
         /// form1 control.
